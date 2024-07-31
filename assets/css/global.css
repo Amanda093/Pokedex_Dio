@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #e4e4e4;
+    background-color: white;
 }
 img,
 picture,
@@ -14,10 +14,10 @@ iframe {
   max-width: 100%;
 }
 .content {
-    width: 200vw;
-    height: 100vh;
-    padding: 1rem;
-    background-color: white;
+  width: 1000vw;
+  height: 100vh;
+  padding: 1rem;
+  margin: 10rem;
 }
 a {
   text-decoration: none;
