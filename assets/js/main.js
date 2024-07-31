@@ -8,7 +8,7 @@ let offset = 0;
 function convertPokemonToLi(pokemon) {
     return `
     <a href="">
-        <li class="pokemon">
+        <li class="card">
             <div class="image">
                 <img src="${pokemon.photo}" alt="${pokemon.name}">
             </div>
